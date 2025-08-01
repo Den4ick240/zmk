@@ -1,0 +1,2 @@
+config SHIELD_KABOBA
+  def_bool $(shields_list_contains, kaboba)

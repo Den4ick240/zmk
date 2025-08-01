@@ -1,0 +1,6 @@
+if SHIELD_KABOBA
+
+config ZMK_KEYBOARD_NAME
+  default "Kaboba"
+
+endif
