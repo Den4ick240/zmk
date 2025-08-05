@@ -18,4 +18,4 @@
 
 &default_transform {
   col-offset = <8>;
-}
+};

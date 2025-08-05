@@ -20,6 +20,6 @@
 ---
 include:
   - board: nice_nano_v2
-    shield: kaboba
+    shield: kaboba_left
   - board: nice_nano_v2
-    shield: kubaba
+    shield: kaboba_right
