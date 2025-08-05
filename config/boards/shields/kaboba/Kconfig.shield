@@ -1,2 +1,5 @@
-config SHIELD_KABOBA
-  def_bool $(shields_list_contains, kaboba)
+config SHIELD_KABOBA_LEFT
+  def_bool $(shields_list_contains, kaboba_left)
+
+config SHIELD_KABOBA_RIGHT
+  def_bool $(shields_list_contains, kaboba_right)

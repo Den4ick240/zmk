@@ -1,6 +1,0 @@
-if SHIELD_KUBABA
-
-config ZMK_KEYBOARD_NAME
-  default "Kubaba"
-
-endif
