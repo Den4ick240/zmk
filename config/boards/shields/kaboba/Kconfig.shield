@@ -3,3 +3,6 @@ config SHIELD_KABOBA_LEFT
 
 config SHIELD_KABOBA_RIGHT
   def_bool $(shields_list_contains, kaboba_right)
+
+config SHIELD_KABOBA_DONGLE
+  def_bool $(shields_list_contains, kaboba_dongle)
